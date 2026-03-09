@@ -48,7 +48,6 @@
 
 ---
 
-## 📂 Projects
 
 | # | Tên Dự Án | Mô Tả | Tech Stack |
 |---|-----------|-------|------------|
@@ -57,7 +56,6 @@
 | 3 | 💬 [Chat App Backend](#) | Backend real-time chat đơn giản | Node.js · Socket.IO · MongoDB |
 | 4 | 📊 [Library Management](#) | Quản lý mượn/trả sách thư viện | Java · MySQL |
 
-> ⭐ *Click vào tên dự án để xem chi tiết*
 
 ---
 
@@ -74,7 +72,6 @@
 
 ---
 
-## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">

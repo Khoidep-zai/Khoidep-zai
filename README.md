@@ -46,19 +46,8 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-
-| # | Tên Dự Án | Mô Tả | Tech Stack |
-|---|-----------|-------|------------|
-| 1 | 🛒 [E-Commerce API](#) | RESTful API quản lý sản phẩm, đơn hàng, người dùng | Spring Boot · MySQL · JWT |
-| 2 | 📝 [Student Management System](#) | Hệ thống quản lý sinh viên CRUD | Node.js · Express · MongoDB |
-| 3 | 💬 [Chat App Backend](#) | Backend real-time chat đơn giản | Node.js · Socket.IO · MongoDB |
-| 4 | 📊 [Library Management](#) | Quản lý mượn/trả sách thư viện | Java · MySQL |
-
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">

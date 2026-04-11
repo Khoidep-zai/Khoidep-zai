@@ -41,13 +41,43 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 🧠 Backend Skills
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-1E3A8A?style=for-the-badge&logo=codeforces&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-0F766E?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-CA8A04?style=for-the-badge&logo=leetcode&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### ⚡ Architecture & Message Queue
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-334155?style=for-the-badge&logo=archlinux&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1D4ED8?style=for-the-badge&logo=nginx&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🧪 Testing & Workflow
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-16A34A?style=for-the-badge&logo=vitest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-9333EA?style=for-the-badge&logo=github&logoColor=white)
+
 ### 🖥️ Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
+
+| # | Tên Dự Án | Mô Tả | Tech Stack |
+|---|-----------|-------|------------|
+| 1 | 🛒 [E-Commerce API](#) | RESTful API quản lý sản phẩm, đơn hàng, người dùng | Spring Boot · MySQL · JWT |
+| 2 | 📝 [Student Management System](#) | Hệ thống quản lý sinh viên CRUD | Node.js · Express · MongoDB |
+| 3 | 💬 [Chat App Backend](#) | Backend real-time chat đơn giản | Node.js · Socket.IO · MongoDB |
+| 4 | 📊 [Library Management](#) | Quản lý mượn/trả sách thư viện | Java · MySQL |
+
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">

@@ -1,19 +1,16 @@
-<h1 align="center">Hi , I am Software engeenering </h1>
+<h1 align="center">Hi 👋, I'm Khôi</h1>
 <h3 align="center">Backend Developer in Progress | 3rd-year IT Student</h3>
 
 <p align="center">
-  INVINCIBLE
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=900&color=00E7FF&center=true&vCenter=true&width=780&lines=INVINCIBLE;Undefeated+against+every+line+of+code" alt="Slogan" />
 </p>
 
 <p align="center">
-  Undefeated against every line of code
+  <img src="https://img.shields.io/badge/Mindset-INVINCIBLE-111827?style=for-the-badge&logo=target&logoColor=22d3ee" alt="Mindset"/>
+  <img src="https://img.shields.io/badge/Status-Undefeated%20against%20every%20line%20of%20code-0A9396?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Khoidep-zai"><img src="https://img.shields.io/badge/GitHub-Khoidep--zai-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="mailto:nguyenkhoidk2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/Khoidep-zai"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+
 
 ---
 
@@ -83,24 +80,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
----
 
 
----
-
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khoidep-zai&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoidep-zai&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khoidep-zai&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khoidep-zai&label=Profile+Views&color=00B4D8&style=flat" alt="profile views"/>
-</p>
 
 <p align="center"><i>"I don't just write code. I design solutions that can grow."</i></p>

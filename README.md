@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Bá Anh Khôi</h1>
+<h1 align="center">Hi , I am Software engeenering </h1>
 <h3 align="center">Backend Developer in Progress | 3rd-year IT Student</h3>
 
 <p align="center">
-  I build backend systems with a focus on clean architecture, maintainable APIs, and practical engineering habits.
+  INVINCIBLE
+</p>
+
+<p align="center">
+  Undefeated against every line of code
 </p>
 
 <p align="center">

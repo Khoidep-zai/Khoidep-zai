@@ -76,6 +76,17 @@
   </tr>
 </table>
 
+<h2 align="center">🔥 My GitHub Stats and Contributions 🔥</h2>
+<br>
+<div align=center>
+  <a href="#" title="Yunkhngn">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yunkhngn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+<br>
+<hr/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW5kbHltcm9kdHpld2t1NXlzZHZnbjNzZHZidDUxcXl5Yzh4MGZsdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fbZ41qQ9NqnJ0klRbs/giphy.gif" style="border-radius:5px; margin-top:20px; width:100%">
 
 
 

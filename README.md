@@ -10,23 +10,21 @@
   <img src="https://img.shields.io/badge/Status-Undefeated%20against%20every%20line%20of%20code-0A9396?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
 </p>
 
-
-
 ---
 
 ## About Me
 
-- 🎓 Sinh viên **Công nghệ Thông tin** 
-- 💻 Định hướng **Solution Architech**
-- 🌱 Đang học & thực hành: **Spring Boot · Node.js · RESTful API · Database Design**
-- 🎯 Mục tiêu: Trở thành **Solution Architech** chuyên nghiệp
+- 🎓 **Information Technology** student
+- 💻 Aspiring **Solution Architect**
+- 🌱 Currently learning & practicing: **Spring Boot · Node.js · RESTful API · Database Design**
+- 🎯 Goal: Become a professional **Solution Architect**
 
 ## Engineering Mindset
 
-- Viết code để dễ bảo trì: ưu tiên cấu trúc rõ ràng, naming nhất quán, và tách trách nhiệm hợp lý.
-- Thiết kế API từ use-case thực tế: dễ đọc, dễ mở rộng, có versioning và xử lý lỗi nhất quán.
-- Luôn đo lường trước khi tối ưu: log, query performance, và bottleneck theo dữ liệu thật.
-- Học theo hướng sản phẩm: mỗi project đều cần có giá trị sử dụng, không chỉ là demo tính năng.
+- Write maintainable code: prioritize clear structure, consistent naming, and proper separation of concerns.
+- Design APIs from real use cases: readable, scalable, with versioning and consistent error handling.
+- Always measure before optimizing: rely on logs, query performance, and bottlenecks based on real data.
+- Learn with a product mindset: every project should deliver real value, not just be a feature demo.
 
 ---
 
@@ -83,7 +81,5 @@
 </div>
 <br>
 <hr/>
-
-
 
 <p align="center"><i>"I don't just write code. I design solutions that can grow."</i></p>

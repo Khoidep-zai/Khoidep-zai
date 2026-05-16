@@ -83,7 +83,6 @@
 </div>
 <br>
 <hr/>
-9NqnJ0klRbs/giphy.gif" style="border-radius:5px; margin-top:20px; width:100%">
 
 
 
